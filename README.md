@@ -1,1 +1,29 @@
-# app-legal
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Terms of Use</title>
+</head>
+<body>
+<h1>Terms of Use</h1>
+
+<p>Last updated: January 2025</p>
+
+<p>
+By downloading or using this application, you agree to be bound by these Terms of Use.
+</p>
+
+<p>
+The app is provided on an "as is" basis. We reserve the right to modify or discontinue the service at any time.
+</p>
+
+<p>
+Purchases are handled by Apple through your Apple ID. We do not manage payments directly.
+</p>
+
+<p>
+If you have any questions, please contact us at: support@yourdomain.com
+</p>
+
+</body>
+</html>
